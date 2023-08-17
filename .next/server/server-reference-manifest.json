@@ -1,0 +1,21 @@
+{
+  "node": {
+    "46c66383a8c9e91f997957d4b8a72c1ff29aa80b": {
+      "workers": {
+        "app/new/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshanebergman%2Fdev%2FPractice%2Fnextjs-todo-app%2Fsrc%2Fapp%2Fnew%2Fpage.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/new/page": "rsc"
+      }
+    },
+    "e4e2e4a59348d2c5e35b7196ce61b53bd100b2c1": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshanebergman%2Fdev%2FPractice%2Fnextjs-todo-app%2Fsrc%2Fapp%2Fpage.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    }
+  },
+  "edge": {}
+}
